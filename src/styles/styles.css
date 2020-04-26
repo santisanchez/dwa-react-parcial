@@ -1,0 +1,26 @@
+.album{
+    width: 200px;
+    height: 200px;
+    box-shadow: 1px -1px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+.photos{
+    height: 100vh;
+    overflow: scroll;
+}
+.photo{
+    width: 200px;
+    height: 200px;
+}
+.photo__modal{
+    width: 100%;
+}
+
+.sidebar{
+    width: 100%;
+    height: 100vh;
+    background: #161616;
+    display: flex;
+    justify-content: center;
+}
